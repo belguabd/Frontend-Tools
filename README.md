@@ -188,7 +188,6 @@ Tools to Help You Test Your Website Speed, Performance and Accessibility.
 
 - [Picsum](https://picsum.photos/)
 - [LoremPixel](http://lorempixel.com/)
-- [ImgPlaceholder](https://imgplaceholder.com/)
 - [DummySrc](https://dummysrc.com/)
 - [IpsumImage](https://ipsumimage.appspot.com/)
 - [PlaceImg](https://placeimg.com/)
